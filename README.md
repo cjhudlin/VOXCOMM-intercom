@@ -29,7 +29,7 @@ Mesh networking is a way of connecting devices (called nodes) so that each node 
 In a mesh, every node can relay data for others. This creates multiple paths for information to travel. If one path is blocked or a node goes offline, the data can automatically take another route.
 
 ## What is the difference between VOXCOMM and something like Cardo or Senna?
-The VOXCOMM intercom doesnt use zigbee, bluetooth, or other proprietory hardware for MESH communication, thus, it does dot have the hardware limitations of such. in this case, it is possible to communicate with many devices over a long distance.
+The VOXCOMM intercom doesnt use zigbee or bluetooth hardware for MESH communication, thus, it does not have the hardware limitations of such. In this case, it is possible to communicate with many devices over a long distance.
 
 VOXCOMM is very lightweight in its features (currently) therefore it has only bluetooth and mesh based capabilities.
 
