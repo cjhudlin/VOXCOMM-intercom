@@ -45,8 +45,9 @@ VOX MESH is designed to be highly competetive against other brands with clean au
 * Currently it does not support HFP (Hands Free Profile), therefore mobile calls will not function via bluetooth, but this is also under development
 
 ## What is the current status of VOXCOMM intercom
-* As of 1.10.2025 it is still under development. Majority of the hard work is already done and is mostly functional
-* Circuit board design is now underway and a prototype device is being made
+* As of 1.10.2025 it is still under development. Majority of the hard work is already done
+* Bluetooth audio and VOX MESH is functional - optimisations are needed
+* Circuit board design is being started
 * Multi device benchmarking is under way
 
 ## How can I contribute?
