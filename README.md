@@ -24,12 +24,15 @@ VOX MESH is designed to be highly competetive against other brands with clean au
 
 ## What is MESH?
 MESH is a type of networking topology that allows multiple devices to communicate to eachother at the same time.
+
 Mesh networking is a way of connecting devices (called nodes) so that each node can communicate directly with others, without needing a single central router.
 In a mesh, every node can relay data for others. This creates multiple paths for information to travel. If one path is blocked or a node goes offline, the data can automatically take another route.
 
 ## What is the difference between VOXCOMM and something like Cardo or Senna?
 The VOXCOMM intercom doesnt use zigbee, bluetooth, or other proprietory hardware for MESH communication, thus, it does dot have the hardware limitations of such. in this case, it is possible to communicate with many devices over a long distance.
+
 VOXCOMM is very lightweight in its features (currently) therefore it has only bluetooth and mesh based capabilities.
+
 VOX MESH is designed to be highly competetive against other brands with clean audio transmission, open and private mesh groups, and long range communication
 
 ## What features does the VOXCOMM MESH have?
