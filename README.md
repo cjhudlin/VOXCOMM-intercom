@@ -33,7 +33,7 @@ The VOXCOMM intercom doesnt use zigbee or bluetooth hardware for MESH communicat
 
 VOXCOMM is very lightweight in its features (currently) therefore it has only bluetooth and mesh based capabilities.
 
-VOX MESH is designed to be highly competetive against other brands with clean audio transmission, open and private mesh groups, and long range communication
+VOXCOMM doesnt have a limit as to how many devices can communicate at one time (a realistic limmit should be set however for bandwidth limitations. This will be defined after testing)
 
 ## What features does the VOXCOMM MESH have?
 * Create private MESH groups using user defined group names and passwords
