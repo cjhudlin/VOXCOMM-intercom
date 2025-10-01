@@ -36,7 +36,7 @@ VOXCOMM is very lightweight in its features (currently) therefore it has only bl
 VOX MESH is designed to be highly competetive against other brands with clean audio transmission, open and private mesh groups, and long range communication
 
 ## What features does the VOXCOMM MESH have?
-* Create private MESH groups using defined group names and passwords
+* Create private MESH groups using user defined group names and passwords
 * Create an open MESH where any VOXCOMM device can connect and communicate
 * Automatic disconnect and reconnect
 
