@@ -54,3 +54,6 @@ Contribution is greatly appreciated, but at this current stage, it is only a cas
 - Circuitboard design - Help here would be grealy appreciated
 - Case design - Designing a suitable case for the circuiboard to reside that would also be waterproof
 - Financial contribution - This is obviously not a must, but it would be extremely appreciated, as this project is taking up a lot of weekends! but in the end would really like to get a viable and reliable product out onto the market that can compete with the big boys for a fraction of the cost!
+
+## How can I contact you?
+You can send me an email at walkrush28@gmail.com
