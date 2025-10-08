@@ -1,60 +1,122 @@
-# VOXCOMM intercom
-ESP based MESH intercom for motorcycle or general use
+# 🗣️ **VOXCOMM Intercom**
+### Mesh based Intercom for Motorcycles and Beyond  
+**Status:** *Under Development*
 
-UNDER DEVELOPMENT
+---
 
-## What is VOXCOMM?
-VOXCOMM is an ESP based MESH intercom and bluetooth device that can be used for motorcycle communication or for any other intercom based usecases.
-It uses a proprietory built mesh to communicate to multiple VOXCOMM devices
-VOX MESH is designed to be highly competetive against other brands with clean and extremely low latency audio transmission, open and private mesh groups, and long range communication
+## 🚀 What Is VOXCOMM?
+**VOXCOMM V1** is an **ESP-based MESH intercom and Bluetooth audio system** designed for motorcycles, group rides, or any situation where clear, hands-free communication matters.
 
-### Features:
-* Bluetooth audio
-  - high quality 44.1k 16 bit stereo audio playback
-* VOX (Voice over X-mesh)
-  - Potentially hundreds of connections*
-  - Private group MESH
-  - Open MESH
-  - High quality 14.7k 16 bit 2 channel audio output for clear communication
- * Device
-   - Display for changing settings and ease of use
-   - Voice Assist allows you to hear what mode you are in whilst not being able to see the display
-     
-*from hardware limiation perspective
+At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
+- ⚡ **Ultra-low-latency audio**
+- 🌐 **Long-range communication**
+- 🔒 **Private or open group networks**
+- 🧠 **Scalable connections** — from a few riders to potentially hundreds\*
 
-## What is MESH?
-MESH is a type of networking topology that allows multiple devices to communicate to eachother at the same time.
+VOXCOMM aims to rival the performance of leading intercom brands while remaining **open, customizable, and affordable**.
 
-Mesh networking is a way of connecting devices (called nodes) so that each node can communicate directly with others, without needing a single central router.
-In a mesh, every node can relay data for others. This creates multiple paths for information to travel. If one path is blocked or a node goes offline, the data can automatically take another route.
+\*Real-world limits depend on hardware and bandwidth.
 
-## What is the difference between VOXCOMM and something like Cardo or Senna?
-The VOXCOMM intercom doesnt use zigbee or bluetooth hardware for MESH communication, thus, it does not have the hardware limitations of such. Because of this, it is possible to communicate with many devices over a long distance.
+---
 
-VOXCOMM is very lightweight in its features (currently) therefore it has only bluetooth and mesh based capabilities.
+## 🎧 Key Features
 
-VOXCOMM doesnt have a limit as to how many devices can communicate at one time (a realistic limmit should be set however for bandwidth limitations. This will be defined after testing)
+### 🔊 **Bluetooth Audio**
+- High-quality **44.1 kHz / 16-bit stereo playback**
+- Compatible with most Bluetooth-enabled devices
 
-## What features does the VOXCOMM MESH have?
-* Create private MESH groups using user defined group names and passwords
-* Create an open MESH where any VOXCOMM device can connect and communicate
-* Automatic disconnect and reconnect
+### 🗣 **VOX (Voice over X-MESH)**
+- Proprietary **multi-node mesh communication**
+- **Private MESH groups** with user-defined credentials  
+- **Open MESH mode** for public communication  
+- **High-clarity 14.7 kHz / 16-bit stereo voice transmission**  
+- Designed for **low latency** and **stable connectivity**
 
-## What cant VOXCOMM do?
-* Currently, it is not possible to use bluetooth and MESH at the same time, therefore, the bluetooth device is disconneted when switching between MESH and bluetooth modes but solutions to this are being worked on
-* Currently it does not support HFP (Hands Free Profile), therefore mobile calls will not function via bluetooth, but this is also under development
+### ⚙️ **Device Interface**
+- Integrated display for easy mode switching  
+- **Voice Assist** announces modes when the display isn’t visible  
+- Compact, power-efficient, and ready for future upgrades
 
-## What is the current status of VOXCOMM intercom
-* As of 1.10.2025 it is still under development. Majority of the hard work is already done
-* Bluetooth audio and VOX MESH is functional - optimisations are needed
-* Circuit board design is being started
-* Multi device benchmarking is under way
+---
 
-## How can I contribute?
-Contribution is greatly appreciated, but at this current stage, it is only a case of waiting for the first release for prototyping and further testing, but where it would be helpful:
-- Circuitboard design - Help here would be grealy appreciated
-- Case design - Designing a suitable case for the circuiboard to reside that would also be waterproof
-- Financial contribution - This is obviously not a must, but it would be extremely appreciated, as this project is taking up a lot of weekends! but in the end would really like to get a viable and reliable product out onto the market that can compete with the big boys for a fraction of the cost!
+## 🕸️ What Is MESH Networking?
 
-## How can I contact you?
-You can send me an email at walkrush28@gmail.com
+A **mesh network** allows multiple devices — called *nodes* — to communicate directly with one another without relying on a central router.
+
+           (VOX Node A)
+              /    \
+             /      \
+    (VOX Node B)----(VOX Node C)
+             \      /
+              \    /
+           (VOX Node D)
+
+Each VOXCOMM device can relay information to others, creating **multiple communication paths**.  
+If one device goes offline, data automatically finds a new route — keeping the network connected.
+
+> Mesh networks are **robust, self-healing, and ideal for group communication on the move.**
+
+---
+
+## ⚔️ VOXCOMM vs. Traditional Systems (Cardo, Sena, etc.)
+
+Unlike commercial intercoms that rely on **Bluetooth Mesh** or **Zigbee**, VOXCOMM uses a **custom mesh layer built directly on Wi-Fi**.  
+That means:
+- 🚀 **Higher throughput** and **lower latency**  
+- 📡 **Longer range** (depending on antenna and power)  
+- 🧩 **No fixed connection limit** — scale to your needs  
+- 💡 **Open architecture** for experimentation and community growth  
+
+Currently, VOXCOMM focuses on **core performance and reliability** rather than feature bloat.
+
+---
+
+## 🧠 VOX MESH Capabilities
+- 🔐 Create **private groups** with your own name and password  
+- 🌍 Start an **open mesh** for anyone nearby to join  
+- 🔄 Automatic **reconnect** and **self-healing** connections  
+- 🎙 Seamless **multi-device audio routing** *(under optimization)*
+
+---
+
+## ⚠️ Current Limitations
+As development continues, a few limitations remain:
+- ❌ **Bluetooth and MESH** cannot currently run simultaneously (switching disconnects Bluetooth)  
+- 📵 **HFP (Hands-Free Profile)** not yet supported — phone calls unavailable  
+- 🧰 **Hardware and firmware optimizations** still in progress  
+
+These are all active areas of work and will improve in future builds.
+
+---
+
+## 🧩 Development Status *(as of Oct 2025)*
+- ✅ Core MESH and Bluetooth systems functional  
+- ⚙️ Audio optimization and stability improvements ongoing  
+- 💡 PCB design phase beginning  
+- 📶 Multi-device testing and range benchmarking underway  
+
+---
+
+## 🤝 How You Can Contribute
+VOXCOMM is a passion-driven open project — contributions are always welcome!
+
+**Areas where help is most valuable:**
+- 🪛 **PCB Design** — schematic, layout, or testing assistance  
+- 🧱 **Case Design** — waterproof, ergonomic enclosure concepts  
+- 💸 **Funding Support** — donations help accelerate hardware prototyping  
+
+Every bit of support — technical, creative, or financial — helps move VOXCOMM closer to reality.
+
+---
+
+## 📬 Get in Touch
+📧 **Email:** [walkrush28@gmail.com](mailto:walkrush28@gmail.com)  
+💻 **GitHub:** [github.com/cjhudlin/openmoto](https://github.com/cjhudlin/openmoto)
+
+---
+
+### 🛠️ VOXCOMM  
+**A new generation of open, scalable, and affordable mesh communication.**
+
+---
+
