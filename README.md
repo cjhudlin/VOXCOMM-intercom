@@ -15,8 +15,6 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 
 VOXCOMM aims to rival the performance of leading intercom brands while remaining **open, customizable, and affordable**.
 
-\*Real-world limits depend on hardware and bandwidth.
-
 ---
 
 ## 🎧 Key Features
@@ -60,14 +58,13 @@ If one device goes offline, data automatically finds a new route — keeping the
 
 ## ⚔️ VOXCOMM vs. Traditional Systems (Cardo, Sena, etc.)
 
-Unlike commercial intercoms that rely on **Bluetooth Mesh** or **Zigbee**, VOXCOMM uses a **custom mesh layer built directly on Wi-Fi**.  
+Unlike commercial intercoms that rely on **Bluetooth Mesh** or **Zigbee**, VOXCOMM uses a **custom mesh layer**.  
 That means:
 - 🚀 **Higher throughput** and **lower latency**  
-- 📡 **Longer range** (depending on antenna and power)  
-- 🧩 **No fixed connection limit** — scale to your needs  
-- 💡 **Open architecture** for experimentation and community growth  
+- 📡 **Longer range**\*
+- 🧩 **Potential for no fixed connection limit** — scale to your needs\*
 
-Currently, VOXCOMM focuses on **core performance and reliability** rather than feature bloat.
+VOXCOMM V1 focuses on **core performance and reliability** rather than feature bloat.
 
 ---
 
@@ -111,7 +108,7 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 
 ## 📬 Get in Touch
 📧 **Email:** [walkrush28@gmail.com](mailto:walkrush28@gmail.com)  
-💻 **GitHub:** [github.com/cjhudlin/openmoto](https://github.com/cjhudlin/openmoto)
+💻 **GitHub:** [github.com/cjhudlin/openmoto](https://github.com/cjhudlin/VOXCOMM-intercom)
 
 ---
 
@@ -119,4 +116,6 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 **A new generation of open, scalable, and affordable mesh communication.**
 
 ---
+
+\*Real-world limits depend on hardware and bandwidth.
 
