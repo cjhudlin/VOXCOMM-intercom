@@ -95,7 +95,7 @@ These are all active areas of work and will improve in future builds.
 ---
 
 ## 🤝 How You Can Contribute
-VOXCOMM is a passion-driven open project — contributions are always welcome!
+VOXCOMM is passion-driven — contributions are always welcome!
 
 **Areas where help is most valuable:**
 - 🪛 **PCB Design** — schematic, layout, or testing assistance  
