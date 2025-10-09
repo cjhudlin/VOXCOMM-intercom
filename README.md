@@ -9,7 +9,7 @@
 
 At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - ⚡ **Ultra-low-latency audio**
-- 🌐 **Long-range communication**
+- 🌐 **Long range communication**
 - 🔒 **Private or open group networks**
 - 🧠 **Scalable connections** — from a few riders to potentially hundreds\*
 
@@ -61,7 +61,7 @@ If one device goes offline, data automatically finds a new route — keeping the
 Unlike commercial intercoms that rely on **Bluetooth Mesh** or **Zigbee**, VOXCOMM uses a **custom mesh layer**.  
 That means:
 - 🚀 **Higher throughput** and **lower latency**  
-- 📡 **Longer range**\*
+- 📡 **Long range**\*
 - 🧩 **Potential for no fixed connection limit** — scale to your needs\*
 
 VOXCOMM V1 focuses on **core performance and reliability** rather than feature bloat.
