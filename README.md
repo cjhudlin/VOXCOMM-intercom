@@ -77,9 +77,9 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 ---
 
 ## ⚠️ Current Limitations
-As development continues, a few limitations remain:
-- ❌ **Bluetooth and MESH** cannot currently run simultaneously (switching disconnects Bluetooth)  
-- 📵 **HFP (Hands-Free Profile)** not yet supported — phone calls unavailable  
+As development continues, a few limitations remain (but are being worked on):
+- ❌ **Bluetooth and MESH** cannot currently run simultaneously. Bluetooth is disabled when in VOX mode (currently causes com disruption)  
+- 📵 **HFP (Hands-Free Profile)** not yet supported — phone calls unavailable right now
 - 🧰 **Hardware and firmware optimizations** still in progress  
 
 These are all active areas of work and will improve in future builds.
