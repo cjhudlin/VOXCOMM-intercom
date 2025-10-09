@@ -13,7 +13,7 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - 🔒 **Private or open group networks**
 - 🧠 **Scalable connections** — from a few riders to potentially hundreds\*
 
-VOXCOMM aims to rival the performance of leading intercom brands while remaining **open, customizable, and affordable**.
+VOXCOMM aims to rival the performance of leading intercom brands while remaining **customizable and affordable**.
 
 ---
 
@@ -87,7 +87,7 @@ These are all active areas of work and will improve in future builds.
 ---
 
 ## 🧩 Development Status *(as of Oct 2025)*
-- ✅ Core MESH and Bluetooth systems functional  
+- ✅ Core MESH and Bluetooth functional  
 - ⚙️ Audio optimization and stability improvements ongoing  
 - 💡 PCB design phase beginning  
 - 📶 Multi-device testing and range benchmarking underway  
