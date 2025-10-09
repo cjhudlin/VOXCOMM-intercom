@@ -17,8 +17,8 @@ VOXCOMM aims to rival the performance of leading intercom brands while remaining
 
 ### Variants
 VOXCOMM V1 comes in two variants:
-Variant A: Designed to be used with motorcycle helmets. This variant can be mounted on motorcycle helmets and uses pads to connect to the mic and speakers
-Variant B: Designed to be used as a headset. This variant uses 3.5mm sockets to connect to mic and headsets
+- Variant A: Designed to be used with motorcycle helmets. This variant can be mounted on motorcycle helmets and uses pads to connect to the mic and speakers.
+- Variant B: Designed to be used as a headset. This variant uses 3.5mm sockets to connect to mic and headsets.
 
 The firmware for both devices is exactly the same, only the hardware is different
 
