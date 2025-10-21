@@ -1,5 +1,6 @@
 # 🗣️ **VOXCOMM Intercom**
-### Mesh based Intercom for Motorcycles and Beyond  
+### Mesh based Intercom for Motorcycles and Beyond
+**A new generation of open, scalable, and affordable mesh communication.**
 **Status:** *Under Development*
 
 ---
@@ -93,10 +94,10 @@ These are all active areas of work and will improve in future builds.
 
 ---
 
-## 🧩 Development Status *(as of Oct 2025)*
+## 🧩 Development Status *(as of 21 Oct 2025)*
 - ✅ Core MESH and Bluetooth functional  
 - ⚙️ Audio optimization and stability improvements ongoing  
-- 💡 PCB design phase beginning  
+- 💡 PCB design phase started
 - 📶 Multi-device testing and range benchmarking underway  
 
 ---
@@ -119,10 +120,12 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 
 ---
 
-### 🛠️ VOXCOMM  
-**A new generation of open, scalable, and affordable mesh communication.**
+### 🛠️ Firmware and hardware
+## Firmware
+**V1.0** is soon to be released. This firmware WILL have limitations and not all tests have been completed. Any feedback would be greatly appreciated
 
----
+## Hardware
+Further information on hardware will be released in due course.
 
 \*Real-world limits depend on hardware and bandwidth.
 
