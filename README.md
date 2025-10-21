@@ -116,7 +116,7 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 
 ## 📬 Get in Touch
 📧 **Email:** [walkrush28@gmail.com](mailto:walkrush28@gmail.com)  
-💻 **GitHub:** [github.com/cjhudlin/openmoto](https://github.com/cjhudlin/VOXCOMM-intercom)
+💻 **GitHub:** [github](https://github.com/cjhudlin/VOXCOMM-intercom)
 
 ---
 
