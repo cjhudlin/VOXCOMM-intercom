@@ -49,13 +49,13 @@ The firmware for both devices is exactly the same, only the hardware is differen
 
 A **mesh network** allows multiple devices — called *nodes* — to communicate directly with one another without relying on a central router.
 
-           (VOX Node A)
+           (VOX Node A) - - (VOX Node E)            
               /    \
              /      \
-    (VOX Node B)----(VOX Node C)
-             \      /
-              \    /
-           (VOX Node D)
+    (VOX Node B)   (VOX Node C)
+             \          \
+              \          \
+         (VOX Node D)   (VOX Node F)
 
 Each VOXCOMM device can relay information to others, creating **multiple communication paths**.  
 If one device goes offline, data automatically finds a new route — keeping the network connected.
@@ -87,18 +87,19 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 ## ⚠️ Current Limitations
 As development continues, a few limitations remain (but are being worked on):
 - ❌ **Bluetooth and MESH** cannot currently run simultaneously. Bluetooth is disabled when in VOX mode (currently causes com disruption)  
-- 📵 **HFP (Hands-Free Profile)** not yet supported — phone calls unavailable right now
-- 🧰 **Hardware and firmware optimizations** still in progress  
+- 📵 **HFP (Hands-Free Profile)** currently being worked on
+- 🧰 **Hardware and firmware optimizations** still in progress, as always!
 
 These are all active areas of work and will improve in future builds.
 
 ---
 
-## 🧩 Development Status *(as of 21 Oct 2025)*
+## 🧩 Development Status *(as of 31 Oct 2025)*
 - ✅ Core MESH and Bluetooth functional  
 - ⚙️ Audio optimization and stability improvements ongoing  
-- 💡 PCB design phase started
-- 📶 Multi-device testing and range benchmarking underway  
+- ⚙️ PCB ready and being tested
+- ⚙️ prototype enclosure being made
+- ⚙️ Multi-device testing and range benchmarking underway  
 
 ---
 
@@ -107,7 +108,7 @@ VOXCOMM is passion-driven — contributions are always welcome!
 
 **Areas where help is most valuable:**
 - 🪛 **PCB Design** — schematic, layout, or testing assistance  
-- 🧱 **Case Design** — waterproof, ergonomic enclosure concepts  
+- 🧱 **Enclosure Design** — waterproof, ergonomic enclosure concepts  
 - 💸 **Funding Support** — donations help accelerate hardware prototyping  
 
 Every bit of support — technical, creative, or financial — helps move VOXCOMM closer to reality.
