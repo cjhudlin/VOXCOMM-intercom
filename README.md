@@ -6,7 +6,11 @@
 ---
 
 ## 🚀 What Is VOXCOMM?
-**VOXCOMM V1** is an **ESP-based MESH intercom and Bluetooth audio system** designed for motorcycles, group rides, or any situation where clear, hands-free communication matters.
+**VOXCOMM V1** is an **ESP-based MESH intercom and Bluetooth audio system**
+It has many usescases like:
+- Motorcycle group rides
+- Home mesh intercom
+- Tour guide comms, like horseback riding or city tours
 
 At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - ⚡ **Ultra-low-latency audio**
