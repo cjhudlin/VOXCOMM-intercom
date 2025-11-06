@@ -1,12 +1,12 @@
-# 🗣️ **VOXCOMM Intercom**
-### Mesh based Intercom for Motorcycles and Beyond
-**A new generation of open, scalable, and affordable mesh communication.**
+# 🗣️ **VOXCOMM Communication devices**
+### Mesh based devices for communication and Beyond
+**A new generation of scalable and affordable mesh communication.**
 **Status:** *Under Development*
 
 ---
 
 ## 🚀 What Is VOXCOMM?
-**VOXCOMM V1** is an **ESP-based MESH intercom and Bluetooth audio system**
+**VOXCOMM V1 Easy Tour** is an **ESP-based MESH intercom and Bluetooth audio system**
 It has many usescases like:
 - Motorcycle group rides
 - Home mesh intercom
@@ -21,7 +21,7 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 VOXCOMM aims to rival the performance of leading intercom brands while remaining **customizable and affordable**.
 
 ### Variants
-VOXCOMM V1 comes in two variants:
+VOXCOMM V1 Easy Tour comes in two variants:
 - Variant A: Designed to be used with motorcycle helmets. This variant can be mounted on motorcycle helmets and uses pads to connect to the mic and speakers.
 - Variant B: Designed to be used as a headset. This variant uses 3.5mm sockets to connect to mic and headsets.
 
