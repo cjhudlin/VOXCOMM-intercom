@@ -25,7 +25,8 @@ VOXCOMM V1 Easy Tour comes in two variants:
 - Variant A: Designed to be used with motorcycle helmets. This variant can be mounted on motorcycle helmets and uses pads to connect to the mic and speakers.
 - Variant B: Designed to be used as a headset. This variant uses 3.5mm sockets to connect to mic and headsets.
 
-The firmware for both devices is exactly the same, only the hardware is different
+VOXCOMM V1 Home
+- Coming soon!
 
 ---
 
@@ -115,7 +116,8 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 
 ### 🛠️ Firmware and hardware
 ## Firmware
-**V1.0** is soon to be released. This firmware WILL have limitations and not all tests have been completed. Any feedback would be greatly appreciated
+**LATEST:** **V1.0** is soon to be released. This firmware WILL have limitations and not all tests have been completed. Any feedback would be greatly appreciated
+Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
 
 ## Hardware
 Further information on hardware will be released in due course.
