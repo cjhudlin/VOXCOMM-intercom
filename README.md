@@ -5,6 +5,17 @@
 
 ---
 
+### Quick links
+## Firmware
+**LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated\
+Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
+
+## Hardware
+Further information on hardware will be released in due course\
+Information on hardware can be found here: [Hardware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Hardware)
+
+---
+
 ## 🚀 What Is VOXCOMM?
 **VOXCOMM V1 Easy Tour** is an **ESP-based MESH intercom and Bluetooth audio system**
 It has many uses cases. Main use cases are:
@@ -19,6 +30,8 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - 🧠 **Scalable connections** — from a few riders to potentially hundreds\*
 
 VOXCOMM aims to rival the performance of leading intercom brands while remaining **customizable and affordable**.
+
+---
 
 ### Variants
 VOXCOMM V1 Easy Tour comes in two variants:
@@ -96,14 +109,6 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 - ⚙️ Multi-device testing and range benchmarking underway  
 
 ---
-
-### 🛠️ Firmware and hardware
-## Firmware
-**LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated\
-Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
-
-## Hardware
-Further information on hardware will be released in due course.
 
 ## 🤝 How You Can Contribute
 VOXCOMM is passion-driven — contributions are always welcome!
