@@ -3,6 +3,11 @@ Here you will find Firmware related to the VOXCOMM devices\
 **LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated
 
 ---
+
 ## Changelog
 
+---
+
+## 📬 Get in Touch
+📧 **Email:** [walkrush28@gmail.com](mailto:walkrush28@gmail.com)  
 💻 **GitHub:** [github](https://github.com/cjhudlin/VOXCOMM-intercom)
