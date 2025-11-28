@@ -99,7 +99,7 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 
 ### 🛠️ Firmware and hardware
 ## Firmware
-**LATEST:** **V1.0** is soon to be released. This firmware WILL have limitations and not all tests have been completed. Any feedback would be greatly appreciated\
+**LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated\
 Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
 
 ## Hardware
