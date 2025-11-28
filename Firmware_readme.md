@@ -3,7 +3,7 @@
 **A new generation of scalable and affordable mesh communication.**\
 
 ### Firmware
-## Firmware
+Here you will find Firmware related to the VOXCOMM devices\
 **V1.0** is soon to be released. This firmware WILL have limitations. Any feedback would be greatly appreciated
 
 
