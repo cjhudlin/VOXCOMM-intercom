@@ -19,7 +19,7 @@ The VOXCOMM series of devices are **convenient VOX MESH based intercom and Bluet
 They are capable of many uses cases, though the main use cases are:
 - Motorcycle group ride communication
 - Home mesh intercom
-- Tour guide comms, like horseback riding or city tours
+- Tour guide comms - horseback riding or city tours etc
 
 At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - ⚡ **Ultra-low-latency audio**
