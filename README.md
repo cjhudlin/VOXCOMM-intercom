@@ -15,8 +15,8 @@ Information about hardware can be found here: [Hardware](https://github.com/cjhu
 ---
 
 ## 🚀 What Is VOXCOMM?
-The VOXCOMM series of devices are **convenient VOX MESH based intercom and Bluetooth audio devices**
-It has many uses cases. Main use cases are:
+The VOXCOMM series of devices are **convenient VOX MESH based intercom and Bluetooth audio devices**\
+They are capable of many uses cases, though the main use cases are:
 - Motorcycle group ride communication
 - Home mesh intercom
 - Tour guide comms, like horseback riding or city tours
