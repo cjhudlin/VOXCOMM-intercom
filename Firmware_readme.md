@@ -1,6 +1,6 @@
 # 🗣️ **VOXCOMM Communication devices**
 ### Mesh based devices for communication and Beyond
-**A new generation of scalable and affordable mesh communication.**\
+**A new generation of scalable and affordable mesh communication.**
 
 ### Firmware
 Here you will find Firmware related to the VOXCOMM devices\
