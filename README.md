@@ -7,8 +7,8 @@
 
 ## 🚀 What Is VOXCOMM?
 **VOXCOMM V1 Easy Tour** is an **ESP-based MESH intercom and Bluetooth audio system**
-It has many usescases like:
-- Motorcycle group rides
+It has many uses cases. Main use cases are:
+- Motorcycle group ride communication
 - Home mesh intercom
 - Tour guide comms, like horseback riding or city tours
 
