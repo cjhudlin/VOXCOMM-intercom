@@ -1,7 +1,7 @@
 # 🗣️ **VOXCOMM Communication devices**
 ### Mesh based devices for communication and Beyond
 **A new generation of scalable and affordable mesh communication.**\
-**Status:** Under  - Prototype made and is being tested
+**Status:** Under development - Prototype made and is being tested
 
 ---
 
