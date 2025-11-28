@@ -7,12 +7,10 @@
 
 ### Quick links
 ## Firmware
-**LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated\
-Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
+Information and firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
 
 ## Hardware
-Further information on hardware will be released in due course\
-Information on hardware can be found here: [Hardware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Hardware)
+Information about hardware can be found here: [Hardware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Hardware)
 
 ---
 
