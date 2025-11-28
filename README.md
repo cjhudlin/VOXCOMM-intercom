@@ -1,10 +1,9 @@
 # Firmware
 Here you will find firmware related to the VOXCOMM devices\
-**LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated
-
----
-
-## Changelog
+Please check the "Variants" folder for more information
+**Variants:**
+- V1 Easy Tour: **LATEST:** **V1.0** is soon to be released. Any feedback would be greatly appreciated
+- V1 Home: **LATEST:** **COMING SOON!**
 
 ---
 
