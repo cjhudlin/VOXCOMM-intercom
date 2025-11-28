@@ -15,7 +15,7 @@ Information about hardware can be found here: [Hardware](https://github.com/cjhu
 ---
 
 ## 🚀 What Is VOXCOMM?
-**VOXCOMM V1 Easy Tour** is an **ESP-based MESH intercom and Bluetooth audio system**
+The VOXCOMM series of devices are **convenient VOX MESH based intercom and Bluetooth audio devices**
 It has many uses cases. Main use cases are:
 - Motorcycle group ride communication
 - Home mesh intercom
