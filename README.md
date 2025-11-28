@@ -97,8 +97,18 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 
 ---
 
+### 🛠️ Firmware and hardware
+## Firmware
+**LATEST:** **V1.0** is soon to be released. This firmware WILL have limitations and not all tests have been completed. Any feedback would be greatly appreciated
+Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
+
+## Hardware
+Further information on hardware will be released in due course.
+
 ## 🤝 How You Can Contribute
 VOXCOMM is passion-driven — contributions are always welcome!
+
+---
 
 **Areas where help is most valuable:**
 - 🧱 **Enclosure Design** — waterproof, ergonomic enclosure concepts  
@@ -113,14 +123,6 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 💻 **GitHub:** [github](https://github.com/cjhudlin/VOXCOMM-intercom)
 
 ---
-
-### 🛠️ Firmware and hardware
-## Firmware
-**LATEST:** **V1.0** is soon to be released. This firmware WILL have limitations and not all tests have been completed. Any feedback would be greatly appreciated
-Firmware can be found here: [Firmware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Firmware)
-
-## Hardware
-Further information on hardware will be released in due course.
 
 \*Real-world limits depend on hardware and bandwidth.
 
