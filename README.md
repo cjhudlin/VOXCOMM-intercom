@@ -88,19 +88,8 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 
 ---
 
-## ⚠️ Current Limitations
-As development continues, a few limitations remain (but are being worked on):
-- ❌ **Bluetooth and MESH** cannot currently run simultaneously. Bluetooth is disabled when in VOX mode (currently causes com disruption)  
-- 📵 **HFP (Hands-Free Profile)** currently being worked on
-- 🧰 **Hardware and firmware optimizations** still in progress, as always!
-
-These are all active areas of work and will improve in future builds.
-
----
-
-## 🧩 Development Status *(as of 31 Oct 2025)*
-- ✅ Core MESH and Bluetooth functional  
-- ⚙️ Audio optimization and stability improvements ongoing  
+## 🧩 Development Status *(as of 28 Nov 2025)*
+- ✅ Core MESH / Firmware functional - finalising 
 - ⚙️ PCB ready and being tested
 - ⚙️ prototype enclosure being made
 - ⚙️ Multi-device testing and range benchmarking underway  
@@ -111,7 +100,6 @@ These are all active areas of work and will improve in future builds.
 VOXCOMM is passion-driven — contributions are always welcome!
 
 **Areas where help is most valuable:**
-- 🪛 **PCB Design** — schematic, layout, or testing assistance  
 - 🧱 **Enclosure Design** — waterproof, ergonomic enclosure concepts  
 - 💸 **Funding Support** — donations help accelerate hardware prototyping  
 
