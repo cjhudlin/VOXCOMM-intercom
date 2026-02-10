@@ -100,9 +100,9 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 
 ---
 
-## 🧩 Development Status *(as of 29 DEC 2025)*
-- ✅ Core MESH / Firmware functional - finalising 
-- ⚙️ PCB ready and being tested - changes made are now final
+## 🧩 Development Status *(as of 10 OCT 26)*
+- ✅ Core MESH / Firmware V1.0 functional 
+- ✅ PCB ready and being tested - changes made are now final
 - ⚙️ prototype enclosure being made
 - ⚙️ Multi-device testing and range benchmarking underway  
 
