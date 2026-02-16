@@ -126,9 +126,13 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 
 ## 📬 Get in Touch
 📧 **Email:** [walkrush28@gmail.com](mailto:walkrush28@gmail.com)  
-💻 **GitHub:** [github](https://github.com/cjhudlin/VOXCOMM-intercom)
+💻 **GitHub:** [github](https://github.com/cjhudlin/VOXCOMM-intercom)  
+**Paypal:** (cjhudlin@gmx.net)  
+<img width="200" height="200" alt="qrcode" src="https://github.com/user-attachments/assets/7b661f28-b1fe-404c-94a2-ad9943b84c64" />  
 
 ---
+
+
 
 \*Real-world limits depend on hardware and bandwidth.
 
