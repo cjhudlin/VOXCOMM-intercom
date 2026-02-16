@@ -54,6 +54,9 @@ VOXCOMM V1 Home
 - **High-clarity 14.7 kHz / 16-bit stereo voice transmission**  
 - Designed for **low latency** and **stable connectivity**
 
+### 🗣 **Duo mode**
+- Almost **latency free** communication between 2 riders
+
 ### ⚙️ **Device Interface**
 - Integrated display for easy mode switching  
 - **Voice Assist** announces modes when the display isn’t visible  
