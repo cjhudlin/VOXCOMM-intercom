@@ -13,6 +13,9 @@ Please check the "Variants" folder for more information
 5. In the tool, Choose the COM port the device is connected to
 6. Click "Install firmware"!
 
+# Warning
+This firmware is not designed to run on any other device and is encrypted. Installing the firmware on another device will not work
+
 # A gentle reminder
 The software, firmware, and any code uploaded to github or any other location related to voxcomm and related voxcomm devices is created by myself and is protected under copyright law. Therefore, please do not modify, reverse engineer, redistribute, use on unauthauthorised hardware without consent.
 
