@@ -13,6 +13,16 @@ Please check the "Variants" folder for more information
 5. In the tool, Choose the COM port the device is connected to
 6. Click "Install firmware"!
 
+# A gentle reminder
+The software, firmware, and any code uploaded to github or any other location related to voxcomm and related voxcomm devices is created by myself and is protected under copyright law. Therefore, please do not modify, reverse engineer, redistribute, use on unauthauthorised hardware without consent.
+
+The Firmware uses somelibraries / plugins to which the copyright does not fall with myself and therefore is not owned by me. You can find their agreements on their sites:
+https://github.com/pschatzmann/arduino-audio-tools
+https://github.com/pschatzmann/ESP32-A2DP
+https://github.com/pschatzmann/arduino-libhelix
+https://github.com/espressif
+https://github.com/platformio
+
 ---
 
 ## 📬 Get in touch
