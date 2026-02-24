@@ -47,6 +47,10 @@ VOXCOMM V1 Home
 - High-quality **44.1 kHz / 16-bit stereo playback**
 - Compatible with most Bluetooth-enabled devices
 
+### 🔊 **Hands Free**
+- High quality phone calls
+- Answer, reject, and control phone calls
+
 ### 🗣 **VOX (Voice over X-MESH)**
 - Proprietary **multi-node mesh communication**
 - **Private MESH groups** with user-defined credentials  
