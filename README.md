@@ -107,8 +107,9 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 
 ---
 
-## 🧩 Development Status *(as of 10 OCT 26)*
-- ✅ Core MESH / Firmware V1.0 functional 
+## 🧩 Development Status *(as of 26 FEB 26)*
+- ✅ Firmware V1.0 functional (will be released on the sale of the device)
+- ✅ Firmware flash tool available for Easy Tour
 - ✅ PCB ready and being tested - changes made are now final
 - ⚙️ prototype enclosure being made
 - ⚙️ Multi-device testing and range benchmarking underway  
@@ -135,7 +136,6 @@ Every bit of support — technical, creative, or financial — helps move VOXCOM
 <img width="200" height="200" alt="qrcode" src="https://github.com/user-attachments/assets/7b661f28-b1fe-404c-94a2-ad9943b84c64" />  
 
 ---
-
 
 
 \*Real-world limits depend on hardware and bandwidth.
