@@ -2,6 +2,7 @@
 ### Mesh based devices for communication and beyond
 **A new generation of scalable and affordable mesh communication.**\
 **Status:** Under development - Prototype made and is being tested (see at bottom for more updates)
+Feel free to open a discussion under "Discussions" tab for any Q&A
 
 ---
 
@@ -11,6 +12,9 @@ Information and firmware can be found here: [Firmware](https://github.com/cjhudl
 
 ## Hardware
 Information about hardware can be found here: [Hardware](https://github.com/cjhudlin/VOXCOMM-intercom/blob/Hardware)
+
+Easy tour V1 (design subject to change)
+![voxcomm_ET_2](https://github.com/user-attachments/assets/de019340-8475-4f31-afb3-936d0d1ac94f)
 
 ---
 
