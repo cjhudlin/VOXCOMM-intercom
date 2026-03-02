@@ -26,10 +26,11 @@ They are capable of many uses cases, though the main use cases are:
 - Tour guide comms - horseback riding or city tours etc
 
 At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
-- ⚡ **Ultra-low-latency audio**
+- ⚡ **low-latency audio**
 - 🌐 **Long range communication**
-- 🔒 **Private or open group networks**
-- 🧠 **Scalable connections** — from a few riders to potentially hundreds\*
+- 🔒 **Private group or open mesh modes**
+- 🗣 **DUO Mode** for 2 person comms
+- 🧠 **Scalable connections** — from a few people to virtually any amount of people\*
 
 VOXCOMM aims to rival the performance of leading intercom brands while remaining **customizable and affordable**.
 
@@ -58,7 +59,7 @@ VOXCOMM V1 Home
 ### 🗣 **VOX (Voice over X-MESH)**
 - Proprietary **multi-node mesh communication**
 - **Private MESH groups** with user-defined credentials  
-- **Open MESH mode** for public communication  
+- **Open MESH mode** for public communication 
 - **High-clarity 14.7 kHz / 16-bit stereo voice transmission**  
 - Designed for **low latency** and **stable connectivity**
 
@@ -66,9 +67,9 @@ VOXCOMM V1 Home
 - Almost **latency free** communication between 2 riders
 
 ### ⚙️ **Device Interface**
-- Integrated display for easy mode switching  
+- Integrated display for easy mode switching and device configuration
+- See your group and information
 - **Voice Assist** announces modes when the display isn’t visible  
-- Compact, power-efficient, and ready for future upgrades
 
 ---
 
