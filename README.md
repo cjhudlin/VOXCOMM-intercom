@@ -112,11 +112,11 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 
 ---
 
-## 🧩 Development Status *(as of 26 FEB 26)*
+## 🧩 Development Status *(as of 19 MAR 26)*
 - ✅ Firmware V1.0 functional (will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
 - ✅ PCB ready and being tested - changes made are now final
-- ⚙️ prototype enclosure being made
+- ✅ prototype enclosure designed
 - ⚙️ Multi-device testing and range benchmarking underway  
 
 ---
