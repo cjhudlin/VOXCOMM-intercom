@@ -1,6 +1,6 @@
 # Easy Tour V1 — Prototype Participation Agreement
 
-**Version:** 1.0  
+**Version:** 1.1  
 **Device:** Easy Tour V1  
 
 ---
@@ -91,7 +91,7 @@ This agreement is governed by the laws of Switzerland. Any disputes shall be sub
 
 ## 11. Acceptance
 
-To accept the terms of this agreement, send an email to **[YOUR EMAIL]** with the following subject line:
+To accept the terms of this agreement, send an email to **walkrush28@gmail.com** with the following subject line:
 
 ```
 AGREE — Easy Tour V1 Prototype Agreement
@@ -99,7 +99,7 @@ AGREE — Easy Tour V1 Prototype Agreement
 
 Your email must contain the following statement, completed with your details:
 
-> *"I, [full name], agree to the Easy Tour V1 Prototype Participation Agreement v1.0, published at github.com/cjhudlin/VOXCommunication-devices/blob/main/PROTOTYPE_AGREEMENT.md (commit SHA: [SHA]), on [date]."*
+> *"I, [full name], agree to the Easy Tour V1 Prototype Participation Agreement v1.1, published at github.com/cjhudlin/VOXCommunication-devices/blob/main/PROTOTYPE_AGREEMENT.md (commit SHA: [SHA]), on [date]."*
 
 ### How to find the commit SHA
 
