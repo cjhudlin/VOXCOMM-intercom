@@ -5,7 +5,7 @@
 Feel free to open a discussion under "Discussions" tab for any Q&A
 
 # LOOKING FOR PROTOTYPE USERS!
-**Im now looking for people to prototype this device, please go to the prototyping.md file for more information**
+**Im now looking for people to prototype (test) the Easy Tour A V1 device! Please go to the prototyping_p1.md file for more information**
 
 ---
 
