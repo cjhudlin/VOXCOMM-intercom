@@ -4,6 +4,9 @@
 **Status:** Under development - Prototype ready! (see at bottom for more updates)
 Feel free to open a discussion under "Discussions" tab for any Q&A
 
+# LOOKING FOR PROTOTYPE USERS!
+**Im now looking for people to prototype this device, please go to the prototyping.md file for more information**
+
 ---
 
 ### Quick links
