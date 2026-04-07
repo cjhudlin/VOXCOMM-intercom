@@ -1,7 +1,7 @@
-# 🗣️ **VOXCOMM Communication devices**
+# 🗣️ **VOXCommunication devices**
 ### Mesh based devices for communication and beyond
 **A new generation of scalable and affordable mesh communication.**\
-**Status:** Under development - Prototype made and is being tested (see at bottom for more updates)
+**Status:** Under development - Prototype ready! (see at bottom for more updates)
 Feel free to open a discussion under "Discussions" tab for any Q&A
 
 ---
@@ -69,7 +69,8 @@ VOXCOMM V1 Home
 ### ⚙️ **Device Interface**
 - Integrated display for easy mode switching and device configuration
 - See your group and information
-- **Voice Assist** announces modes when the display isn’t visible  
+- **Voice Assist** announces modes when the display isn’t visible
+- Highly configurable device options
 
 ---
 
@@ -108,16 +109,16 @@ VOXCOMM V1 focuses on **core performance and reliability** rather than feature b
 - 🔐 Create **private groups** with your own name and password  
 - 🌍 Start an **open mesh** for anyone nearby to join  
 - 🔄 Automatic **reconnect** and **self-healing** connections  
-- 🎙 Seamless **multi-device audio routing** *(under optimization)*
+- 🎙 Seamless **multi-device audio routing**
 
 ---
 
-## 🧩 Development Status *(as of 19 MAR 26)*
+## 🧩 Development Status *(as of 7 APR 26)*
 - ✅ Firmware V1.0 functional (will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
 - ✅ PCB ready and being tested - changes made are now final
 - ✅ prototype enclosure designed
-- ⚙️ Multi-device testing and range benchmarking underway  
+- ✅ Multi-device testing and range benchmarking underway  
 
 ---
 
