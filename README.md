@@ -18,12 +18,12 @@ Easy tour V1 (design subject to change)
 
 ---
 
-## 🚀 What Is VOXCOMM?
-The VOXCOMM series of devices are **convenient VOX MESH based intercom and Bluetooth audio devices**\
-They are capable of many uses cases, though the main use cases are:
-- Motorcycle group ride communication
+## 🚀 What are VOXCommunication devices?
+VOXCommunication devices is a bran focused creating devices that are **convenient VOX MESH based communication devices**\
+The devices are capable of many uses cases, though the main use cases are:
+- Motorcycle group ride mesh communication
 - Home mesh intercom
-- Tour guide comms - horseback riding or city tours etc
+- Tour guide mesh comms - horseback riding or city tours etc
 
 At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - ⚡ **low-latency audio**
@@ -37,11 +37,11 @@ VOXCOMM aims to rival the performance of leading intercom brands while remaining
 ---
 
 ### Variants
-VOXCOMM V1 Easy Tour comes in two variants:
+Easy Tour comes in two variants:
 - Variant A: Designed to be used with motorcycle helmets. This variant can be mounted on motorcycle helmets and uses pads to connect to the mic and speakers.
-- Variant B: Designed to be used as a headset. This variant uses 3.5mm sockets to connect to mic and headsets.
+- Variant B: Designed to be used as a headset. This variant uses 3.5mm sockets to connect to mic and headsets. (TBA)
 
-VOXCOMM V1 Home
+Home V1
 - Coming soon!
 
 ---
@@ -76,32 +76,33 @@ VOXCOMM V1 Home
 
 ## 🕸️ What Is MESH Networking?
 
-A **mesh network** allows multiple devices — called *nodes* — to communicate directly with one another without relying on a central router.
+A **mesh network** allows multiple devices — called *nodes* — to communicate with one another without relying on a central router.
+Example A shows a straightforward hierarchical topology while Example B shows a random re-shuffle of the topology due to connection loss with other nodes. Each device will be able to communicate, no metter the topology.
 
-           (VOX Node A) - - (VOX Node E)            
-              /    \
-             /      \
-    (VOX Node B)   (VOX Node C)
-             \          \
-              \          \
-         (VOX Node D)   (VOX Node F)
+    A:                                            B:
+         (VOX Node A) - - (VOX Node E)               (VOX Node A) - - (VOX Node E)
+              /    \                                       /               /
+             /      \                                     /              /
+    (VOX Node B)   (VOX Node C)                   (VOX Node B)   (VOX Node C)
+             \          \                                         /       \
+              \          \                                       /         \
+         (VOX Node D)   (VOX Node F)                     (VOX Node D)    (VOX Node F)
 
-Each VOXCOMM device can relay information to others, creating **multiple communication paths**.  
+Each device can relay information to others, creating **multiple communication paths**.  
 If one device goes offline, data automatically finds a new route — keeping the network connected.
 
 > Mesh networks are **robust, self-healing, and ideal for group communication on the move.**
 
 ---
 
-## ⚔️ VOXCOMM vs. Traditional Systems (Cardo, Sena, etc.)
+## ⚔️ VOXCommunication devices vs. Traditional Systems (Cardo, Sena, etc.)
 
 Unlike commercial intercoms that rely on **Bluetooth Mesh** or **Zigbee**, VOXCOMM uses a **custom mesh layer**.  
 That means:
 - 🚀 **Higher throughput** and **lower latency**  
 - 📡 **Long range**\*
-- 🧩 **Potential for no fixed connection limit** — scale to your needs\*
-
-VOXCOMM V1 focuses on **core performance and reliability** rather than feature bloat.
+- 🧩 **Potential for no fixed connection limit** — scale to your needs
+- much more device compatiblity - almost any device can implement VOX Mesh software\*
 
 ---
 
