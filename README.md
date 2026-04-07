@@ -18,8 +18,8 @@ Easy tour V1 (design subject to change)
 
 ---
 
-## 🚀 What are VOXCommunication devices?
-VOXCommunication devices is a bran focused creating devices that are **convenient VOX MESH based communication devices**\
+## 🚀 Who is VOXCommunication devices?
+VOXCommunication devices is a brand focused on creating devices that are **convenient VOX MESH based communication devices**\
 The devices are capable of many uses cases, though the main use cases are:
 - Motorcycle group ride mesh communication
 - Home mesh intercom
@@ -31,8 +31,6 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - 🔒 **Private group or open mesh modes**
 - 🗣 **DUO Mode** for 2 person comms
 - 🧠 **Scalable connections** — from a few people to virtually any amount of people\*
-
-VOXCOMM aims to rival the performance of leading intercom brands while remaining **customizable and affordable**.
 
 ---
 
@@ -95,7 +93,7 @@ If one device goes offline, data automatically finds a new route — keeping the
 
 ---
 
-## ⚔️ VOXCommunication devices vs. Traditional Systems (Cardo, Sena, etc.)
+## ⚔️ VOXCommunication devices vs. Traditional Systems
 
 Unlike commercial intercoms that rely on **Bluetooth Mesh** or **Zigbee**, VOXCOMM uses a **custom mesh layer**.  
 That means:
