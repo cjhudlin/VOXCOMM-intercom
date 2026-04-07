@@ -31,6 +31,7 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - 🔒 **Private group or open mesh modes**
 - 🗣 **DUO Mode** for 2 person comms
 - 🧠 **Scalable connections**
+- **Device compatibility** - Virtually any device could communicate using VOX mesh software
 
 ---
 
