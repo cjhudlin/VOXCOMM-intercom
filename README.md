@@ -33,6 +33,7 @@ At its core is **VOX MESH**, a proprietary mesh networking system that delivers:
 - 🌐 **Long range communication**
 - 🔒 **Private group or open mesh modes**
 - 🗣 **DUO Mode** for 2 person comms
+- 🗣 **Dual Audio** Listen to your favourite music or navigation via bluetooth whilst chatting!
 - 🧠 **Scalable connections**
 - **Device compatibility** - Virtually any device could communicate using VOX mesh software
 
@@ -67,6 +68,9 @@ Home V1
 
 ### 🗣 **Duo mode**
 - Almost **latency free** communication between 2 riders
+
+### 🗣 **Dual Audio**
+- Play music or listen to your satnav whilst talking in mesh mode
 
 ### ⚙️ **Device Interface**
 - Integrated display for easy mode switching and device configuration
@@ -116,10 +120,11 @@ That means:
 
 ---
 
-## 🧩 Development Status *(as of 7 APR 26)*
+## 🧩 Development Status *(as of 7 MAY 26)*
+- Prototype device has already been made and is currently undergoing testing. After testing, a new pcb was required to meet the requirements
 - ✅ Firmware V1.0 functional (will be released on the sale of the device)
 - ✅ Firmware flash tool available for Easy Tour
-- ✅ PCB ready and being tested - changes made are now final
+- X PCB ready and being tested - NEW PCB DESIGN IS BEING MADE AND TESTED - smaller, more efficient 
 - ✅ prototype enclosure designed
 - ✅ Multi-device testing and range benchmarking underway  
 
